@@ -1,2 +1,4 @@
 # churro_boards
-keyboards_by_baca
+keyboards by baca
+
+learning as i go. likely to be janky af.
